@@ -13,10 +13,15 @@
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 10px;
+  box-shadow: 13px 14px 10px -6px rgba(0, 0, 0, 0.75);
 }
 
 .button-div button {
   margin: 10px;
+}
+
+.form-buttons button {
+  box-shadow: 13px 14px 36px -9px rgba(0, 0, 0, 0.75);
 }
 
 /* .button-div button {
