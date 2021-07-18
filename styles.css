@@ -1,0 +1,29 @@
+.outer-container {
+  border: 2px solid black;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.button-div,
+.form-buttons {
+  border: black solid 2px;
+  width: 75%;
+  margin: 10px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.button-div button {
+  margin: 10px;
+}
+
+/* .button-div button {
+  border: none;
+  border-radius: 25px;
+  text-align: center;
+  padding: 10px 10px;
+  margin: 8px;
+  background-color: red;
+} */
